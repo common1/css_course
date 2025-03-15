@@ -15,3 +15,8 @@ CSS Validation Service
 
 ...
 
+## 02_LESSON / Chapter2: Selectors
+
+...
+
+
