@@ -19,4 +19,7 @@ CSS Validation Service
 
 ...
 
+## 03_LESSON / Chapter3: Colors
+
+...
 
